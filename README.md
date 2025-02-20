@@ -37,7 +37,6 @@ The StudyNotion ed-tech platform consists of three main components: the front en
 
 - Architecture Diagram - Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech platform: 
 
-![architecture](https://github.com/AnishAwadh/StudyNotion/assets/95581614/e1579537-8c22-4d1d-8b17-c5f037570bb2)
 
 ## Front-end
 
